@@ -15,37 +15,37 @@ A new Flutter project.
 
 
 4) Button
-<img src="" alt="ss 1" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/64688057/204092713-e4fcb3fc-5b63-401b-baf0-e6aee736dc75.png" alt="ss 1" style="width:200px;"/>
 
 
 5) Scaffold
-<img src="" alt="ss 1" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/64688057/204092723-2eee0e28-a393-45ef-97a3-8a9aeacf970e.png" alt="ss 1" style="width:200px;"/>
 
 
 6) Dialog
-<img src="" alt="ss 1" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/64688057/204092731-96632b6a-663d-4cac-888d-263726424bec.png" alt="ss 1" style="width:200px;"/>
 
 
 7) Input dan Selection Widget
-<img src="" alt="ss 1" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/64688057/204092745-06ccddca-d3ca-4366-900c-7b61dc96d64e.png" alt="ss 1" style="width:200px;"/>
 
 
 8) Date and Time Pickers 
-<img src="https://web.whatsapp.com/699eacc9-e560-43cd-b9a0-4caba1957dfe" alt="ss 1" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/64688057/204092758-4016841b-65fb-4043-bd95-7f8fd301888c.png" alt="ss 1" style="width:200px;"/>
 
 
 9) Container
   a) property child
-  <img src="blob:https://web.whatsapp.com/681ef910-a145-4006-a5f6-06960f3bd34a" alt="ss 1" style="width:200px;"/>
+  <img src="https://user-images.githubusercontent.com/64688057/204092770-dd3ac3c2-2c92-4d87-bfeb-b082437dc872.png" alt="ss 1" style="width:200px;"/>
   
   b) property alignment
-  <img src="blob:https://web.whatsapp.com/5110db39-1dfe-4268-a100-bd4414184ccf" alt="ss 1" style="width:200px;"/>
+  <img src="https://user-images.githubusercontent.com/64688057/204092789-56dd65ab-88d5-494b-a8ee-434bc42d359b.png" alt="ss 1" style="width:200px;"/>
   
   c) property color
-  <img src="blob:https://web.whatsapp.com/abb27ecb-e0ce-40c0-afbb-f1e5e677d0f4" alt="ss 1" style="width:200px;"/>
+  <img src="https://user-images.githubusercontent.com/64688057/204092798-ad68167c-d3ae-4205-ac79-f85458eb3c69.png" alt="ss 1" style="width:200px;"/>
   
   d) Property height dan width
-  <img src="blob:https://web.whatsapp.com/0bf3a5ee-88ce-41cb-9fb4-8e987b5b31f4" alt="ss 1" style="width:200px;"/>
+  <img src="https://user-images.githubusercontent.com/64688057/204092782-e2709d71-f031-4365-8ae8-6d10e075e4da.png" alt="ss 1" style="width:200px;"/>
 
   e) property margin
   <img src="https://user-images.githubusercontent.com/64688057/204090300-0f4b50d9-b4c1-4621-ac83-4cb782f153b1.png" alt="ss 1" style="width:200px;"/>
