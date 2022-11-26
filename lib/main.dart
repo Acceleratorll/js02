@@ -9,16 +9,17 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-          appBar: AppBar(title: const Text("Contoh Aligment")),
+          appBar: AppBar(title: const Text("Contoh Color")),
           body: Container(
-              alignment: Alignment.bottomCenter,
+              margin: const EdgeInsets.all(100),
+              height: 200,
+              width: 200,
+              alignment: Alignment.center,
+              color: Colors.amber[900],
               child: const Text(
                 'Semangat Belajar',
-                style: TextStyle(
-                  fontSize: 20,
-                ),
+                style: TextStyle(fontSize: 20, color: Colors.white),
               ))),
-    ); 
-
+    );
   }
 }
