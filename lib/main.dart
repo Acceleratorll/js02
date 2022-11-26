@@ -9,15 +9,15 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-          appBar: AppBar(title: const Text("Contoh Color")),
+          appBar: AppBar(title: const Text("Contoh Margin")),
           body: Container(
-              margin: const EdgeInsets.all(100),
-              height: 200,
-              width: 200,
-              alignment: Alignment.center,
-              color: Colors.amber[900],
+              margin: const EdgeInsets.all(133),
+              height: 99,
+              width: 250,
+              alignment: Alignment.topCenter,
+              color: Colors.blueGrey,
               child: const Text(
-                'Semangat Belajar',
+                'Semangat Belajar Flutter',
                 style: TextStyle(fontSize: 20, color: Colors.white),
               ))),
     );
