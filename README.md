@@ -80,9 +80,6 @@ A new Flutter project.
 <img src="https://user-images.githubusercontent.com/64688057/204092430-38f07cd9-13e4-4da7-8a74-73082cd113af.png" alt="ss 1" style="width:200px;"/>
 
 
-Tugas/Homework
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
