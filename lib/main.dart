@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart'; 
 
 void main() {
   runApp(const MyApp());
@@ -11,7 +12,15 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Image.asset('assets/Owl.jpg')
+      home: Scaffold(
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {
+            // Add your onPressed code here!
+          },
+          child: const Icon(Icons.thumb_up),
+          backgroundColor: Colors.pink,
+        ),
+      ),
     ); 
   }
 }
