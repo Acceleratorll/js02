@@ -7,31 +7,31 @@ A new Flutter project.
 
 
 2) Image Widget
-<img src="blob:https://web.whatsapp.com/516cd23f-d27b-44a7-b22c-495e67791b23" alt="ss 1" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/64688057/204092604-b74c43ad-3fa4-441f-8b54-cf247ebf766a.png" alt="ss 1" style="width:200px;"/>
 
 
 3) Material Design dan iOS Cupertino
-<img src="blob:https://web.whatsapp.com/b750e362-5158-4211-9556-6d5ee6ef6145" alt="ss 1" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/64688057/204092636-fed673da-199e-40f4-a692-6dbaacbb0682.png" alt="ss 1" style="width:200px;"/>
 
 
 4) Button
-<img src="blob:https://web.whatsapp.com/8f50e584-6a3e-4c45-8248-0c6972b5892a" alt="ss 1" style="width:200px;"/>
+<img src="" alt="ss 1" style="width:200px;"/>
 
 
 5) Scaffold
-<img src="blob:https://web.whatsapp.com/b0e8c57f-674a-4a7b-acf5-62e87128dcee" alt="ss 1" style="width:200px;"/>
+<img src="" alt="ss 1" style="width:200px;"/>
 
 
 6) Dialog
-<img src="blob:https://web.whatsapp.com/7289df66-93b4-44e5-a5b3-f20d79dc0771" alt="ss 1" style="width:200px;"/>
+<img src="" alt="ss 1" style="width:200px;"/>
 
 
 7) Input dan Selection Widget
-<img src="blob:https://web.whatsapp.com/7289df66-93b4-44e5-a5b3-f20d79dc0771" alt="ss 1" style="width:200px;"/>
+<img src="" alt="ss 1" style="width:200px;"/>
 
 
 8) Date and Time Pickers 
-<img src="blob:https://web.whatsapp.com/699eacc9-e560-43cd-b9a0-4caba1957dfe" alt="ss 1" style="width:200px;"/>
+<img src="https://web.whatsapp.com/699eacc9-e560-43cd-b9a0-4caba1957dfe" alt="ss 1" style="width:200px;"/>
 
 
 9) Container
